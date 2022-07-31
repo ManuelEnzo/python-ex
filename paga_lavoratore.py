@@ -2,7 +2,7 @@
 PAGA_STR = 1.5
 
 def calcolo_paga(paga, ore):
-    print('Test 1 Passed')
+    #print('Test 1 Passed')
 
     x = input('Ha fatto anche straordinari: (y/n)')
     if x == 'y':
