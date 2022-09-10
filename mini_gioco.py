@@ -1,10 +1,10 @@
 #Questo è uno dei semplici progetti Python. 
-Puoi anche chiamarlo un mini-gioco. Q
-uesto progetto è particolarmente utile per i principianti. 
-Crea un programma in cui il computer sceglie casualmente un numero compreso tra 1 e 10, da 1 a 100 o qualsiasi intervallo. 
-Quindi dai agli utenti un suggerimento per indovinare il numero. 
-Ogni volta che l'utente sbaglia, ottiene un altro indizio e il suo punteggio viene ridotto. 
-L'indizio può essere divisibile, maggiore o minore o una combinazione di tutti.#
+#Puoi anche chiamarlo un mini-gioco. 
+#Questo progetto è particolarmente utile per i principianti. 
+#Crea un programma in cui il computer sceglie casualmente un numero compreso tra 1 e 10, da 1 a 100 o qualsiasi intervallo. 
+#Quindi dai agli utenti un suggerimento per indovinare il numero. 
+#Ogni volta che l'utente sbaglia, ottiene un altro indizio e il suo punteggio viene ridotto. 
+#L'indizio può essere divisibile, maggiore o minore o una combinazione di tutti.
 
 import random 
 
