@@ -17,7 +17,7 @@ Il tuo compito è determinare se due nodi sono adiacenti in un grafo non orienta
 
 TIPS: Ho provato a generare la rete attraverso dei semplici cicli for e il modulo random sfruttando il metodo randint().
       - Aggiornamenti futuri :
-            - Costruire la rete in maniera più corretta, ovverro, se il nodo uno è collegato al nodo 2, il nodo 2 nella sua riga non 
+            - Costruire la rete in maniera più corretta, ovvero, se il nodo 1 è collegato al nodo 2, il nodo 2 nella sua riga non 
               può avere come valore in indice 1 lo zero.
 '''
 import random
